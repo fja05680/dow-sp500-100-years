@@ -1,5 +1,5 @@
 # dow-sp500-100-years
-Historical time series of DOW Jones Industrial Average and S&amp;P500 dating back 100 plus years
+Historical time series of DOW Jones Industrial Average and S&amp;P500
 
 ##### S&P 500 time series since 12-30-1927: `SP500.csv` 
 ##### DOW time series since 12-30-1927: `DJA.csv`
